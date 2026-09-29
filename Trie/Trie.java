@@ -1,3 +1,4 @@
+import java.util.*;
 class Trie {
     static class Node {
         Node[] children;
@@ -11,9 +12,9 @@ class Trie {
             eow = false;
         }
     }
-    static Node root = new Node();
+    static  Node root = new Node();
 
-    public static Boolean Search(String key){
+    public static  boolean search(String key){
         Node currNode = root;
         for(int i=0; i<key.length(); i++){
             int idx = key.charAt(i)-'a';
@@ -27,8 +28,18 @@ class Trie {
         }
         return true;
     }
-
-    public static Node insert(String words){
+    public static boolean startsWith(String[] words,String prefix){
+        Node curr = root;
+        for(int i=0; i<prefix.length(); i++){
+            int idx = prefix.charAt(i)-'a';
+            if(curr.children[idx]==null){
+                return false;
+            }
+            curr = curr.children[idx];    
+        }
+        return true;
+    }   
+    public static void insert(String words){
         Node currNode = root;
         for(int i=0; i < words.length(); i++){
             int idx = words.charAt(i)-'a';
@@ -38,16 +49,34 @@ class Trie {
             currNode = currNode.children[idx];
         }
         currNode.eow = true;
-        return currNode;
     }
-
-
+    public static  boolean WordBreak(String Key){
+        if (Key.length()==0){
+            return true;
+        }
+        for(int i=1; i<=Key.length(); i++){
+            String firstWord =  Key.substring(0, i) ;
+            String SecondWord = Key.substring(i);
+            if (search(firstWord) && WordBreak(SecondWord)){
+                return true;
+            }
+        }
+        return false;
+    }
+  
     public static void main(String[] args){
-        String[] words = {"the", "a", "their", "any", "there"};
+        // String[] StringOfWords  = {"i", "like", "sam", "samsung", "mobile", "ice"};
+        // String key = "ilikesam";
+        // for(int i=0; i<StringOfWords.length; i++){
+        //     insert(StringOfWords[i]);
+        // }
+        // System.out.println(WordBreak(key));
+        String words[] = {"apple", "app","mango", "man", "woman"};
+        String prefix="moon";
         for(int i=0; i<words.length; i++){
             insert(words[i]);
-        }   
-        System.out.println(Search("t"));
+        }
+        System.out.println(startsWith(words,prefix ));
     }
 }
 
