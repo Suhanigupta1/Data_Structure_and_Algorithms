@@ -38,6 +38,18 @@ class Trie {
             curr = curr.children[idx];    
         }
         return true;
+    }  
+    public static int countofPrefix(Node rootNode){
+        if(rootNode==null){
+            return 0;
+        }
+        int count=0;
+        for(int i=0; i<26; i++){
+            if (rootNode.children[i] != null){
+                count += countofPrefix(rootNode.children[i]);
+            }
+        }
+        return count + 1;
     }   
     public static void insert(String words){
         Node currNode = root;
@@ -63,6 +75,22 @@ class Trie {
         }
         return false;
     }
+    public static String ans=""; 
+    public static void  LongestWordWithAllPrefixes (Node root, StringBuilder temp){
+        if (root==null){
+            return ;
+        }
+        for(int i=0; i<26 ; i++){
+            if(root.children[i]!=null && root.children[i].eow == true){
+                temp.append((char)(i+'a'));
+                if(temp.length() > ans.length()){
+                    ans = temp.toString();
+                }
+                LongestWordWithAllPrefixes(root.children[i], temp);
+                temp.deleteCharAt(temp.length()-1);
+            }
+        }
+    }
   
     public static void main(String[] args){
         // String[] StringOfWords  = {"i", "like", "sam", "samsung", "mobile", "ice"};
@@ -71,12 +99,30 @@ class Trie {
         //     insert(StringOfWords[i]);
         // }
         // System.out.println(WordBreak(key));
-        String words[] = {"apple", "app","mango", "man", "woman"};
-        String prefix="moon";
-        for(int i=0; i<words.length; i++){
+        // String words[] = {"apple", "app","mango", "man", "woman"};
+        // String prefix="moon";
+        // for(int i=0; i<words.length; i++){
+        //     insert(words[i]);
+        // }
+        // // System.out.println(startsWith(words,prefix ));
+        // String str = "apple";
+        // ArrayList<String> arr = new ArrayList<>();
+        // for(int i=0; i<=str.length(); i++){
+        //     arr.add(str.substring(i));
+        // }
+        // for(int i=0; i<arr.size(); i++){
+        //     insert(arr.get(i));
+        // }
+        // System.out.println(countofPrefix(root));
+        String[] words = new String[] {"a", "banana", "app", "appl", "ap"};
+        for (int i=0; i<words.length; i++){
             insert(words[i]);
         }
-        System.out.println(startsWith(words,prefix ));
+        StringBuilder temp = new StringBuilder();
+        LongestWordWithAllPrefixes(root, temp);
+        System.out.println(ans);
+
+
     }
 }
 
