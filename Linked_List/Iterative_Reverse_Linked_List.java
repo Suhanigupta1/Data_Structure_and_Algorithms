@@ -1,4 +1,4 @@
-class Iterative_Reverse_Linked_List {
+public class Iterative_Reverse_Linked_List {
     Node head;
 
     static class Node {

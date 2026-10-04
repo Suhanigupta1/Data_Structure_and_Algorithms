@@ -1,4 +1,4 @@
-class Reverse_Linked_List {
+public class Reverse_Linked_List {
     Node head; // head of the linked list
 
     static class Node {

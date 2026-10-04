@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BinaryTreeYT{
+class BinaryTreeYTPractice{
     static class TreeNode{
         int val;
         TreeNode left;
@@ -153,20 +153,19 @@ public class BinaryTreeYT{
 
     public static void main(String[] args){
         int[] nodes = {1, 2, 4, -1, -1, 5, -1,-1, 3, -1, 6, -1, -1};
-        BinaryTree tree = new BinaryTree();
-        TreeNode root = tree.buildTree(nodes);
+        TreeNode root = BinaryTree.buildTree(nodes);
         System.out.println(root.val);
-        tree.preOrder(root);
+        BinaryTree.preOrder(root);
         System.out.println();
-        tree.inOrder(root);
+        BinaryTree.inOrder(root);
         System.out.println();
-        tree.postOrder(root);
+        BinaryTree.postOrder(root);
         System.out.println();
-        tree.levelOrder(root);
-        System.out.println("Diameter of the tree is: " + tree.DiameterOfTree(root));
-        System.out.println("Diameter of the tree is: " + tree.diameterofTreeInfo(root).diameter);
-        System.out.println("Height of the tree is: " + tree.HeightOfTree(root));
-        System.out.println("Count of nodes in the tree is: " + tree.CountOfNodes(root));
-        System.out.println("Sum of nodes in the tree is: " + tree.SumOfNodes(root));
+        BinaryTree.levelOrder(root);
+        System.out.println("Diameter of the tree is: " + BinaryTree.DiameterOfTree(root));
+        System.out.println("Diameter of the tree is: " + BinaryTree.diameterofTreeInfo(root).diameter);
+        System.out.println("Height of the tree is: " + BinaryTree.HeightOfTree(root));
+        System.out.println("Count of nodes in the tree is: " + BinaryTree.CountOfNodes(root));
+        System.out.println("Sum of nodes in the tree is: " + BinaryTree.SumOfNodes(root));
     }
 }
