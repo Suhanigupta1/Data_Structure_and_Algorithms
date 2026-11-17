@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0207-course-schedule) |
+## Array
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
