@@ -1,21 +1,26 @@
 class Solution {
-    public int numSubarraysWithSum(int[] nums, int goal) {
+    public int atmostgoal(int[] nums, int goal){
+        if(goal<0){
+            return 0;
+        }
+        int i=0; 
+        int j=0;
+        int res = 0;
+        int sum=0;
         int n = nums.length;
-        int[] prefix = new int[n];
-        prefix[0] = nums[0];
-        for(int i=1; i<n; i++){
-            prefix[i] = nums[i] + prefix[i-1];
-        }
-        HashMap<Integer, Integer> hm = new HashMap<>();
-        hm.put(0, 1);
-        int count = 0;
-        for(int i=0; i<n; i++){
-            int target = prefix[i] - goal;
-            if(hm.containsKey(target)){
-                count+= hm.get(target);
+        while(j < nums.length){
+            sum += nums[j];
+            while(sum>goal){
+                sum -= nums[i];
+                i++;
             }
-            hm.put(prefix[i], hm.getOrDefault(prefix[i],0) + 1);
+            res += (j-i+1);   
+            j++;     
         }
-        return count;
+        return res;
+    }
+
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        return atmostgoal(nums, goal) - atmostgoal(nums, goal-1);
     }
 }
