@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
+| [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
