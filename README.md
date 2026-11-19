@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
