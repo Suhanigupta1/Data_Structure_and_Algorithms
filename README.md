@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
