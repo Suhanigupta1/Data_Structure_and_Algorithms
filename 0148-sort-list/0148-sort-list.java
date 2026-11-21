@@ -10,23 +10,44 @@
  */
 import java.util.*;
 class Solution {
-    public ListNode sortList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        int n = 0;
-        ListNode curr = head; 
-        while(curr != null){
-            arr.add(curr.val);
-            n++;
-            curr = curr.next;            
+    public ListNode sortList(ListNode head){
+        if(head==null || head.next==null){
+            return head;
         }
-        Collections.sort(arr);
-        ListNode dummy = head;
-        int i=0;
-        while(dummy!=null){
-            dummy.val = arr.get(i);
-            i++;
-            dummy= dummy.next; 
+        ListNode prev = null;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null){ 
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return head;
+        prev.next = null;
+
+        ListNode l1 = sortList(head);
+        ListNode l2 = sortList(slow);
+        return merge(l1, l2);
+    }
+
+    public ListNode merge(ListNode l1, ListNode l2){
+        ListNode l = new ListNode(0);
+        ListNode p = l;
+        while(l1!=null && l2!=null){
+            if(l1.val<=l2.val){
+                p.next = l1;
+                l1 = l1.next;
+            }else{
+                p.next = l2;
+                l2 = l2.next;
+            }
+            p = p.next;
+        }
+        if(l1!=null){
+            p.next = l1 ; 
+        }
+        if(l2!=null){
+            p.next = l2 ;
+        }
+        return l.next;
     }
 }
