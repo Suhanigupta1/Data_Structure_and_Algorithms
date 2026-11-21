@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
