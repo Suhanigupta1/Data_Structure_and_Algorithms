@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0152-maximum-product-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
