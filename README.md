@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 ## Counting
