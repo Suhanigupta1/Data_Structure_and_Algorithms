@@ -97,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
