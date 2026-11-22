@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
