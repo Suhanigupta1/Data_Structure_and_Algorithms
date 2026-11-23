@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
