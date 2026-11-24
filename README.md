@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
