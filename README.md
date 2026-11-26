@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
