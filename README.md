@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0229-majority-element-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhanigupta1/Data_Structure_and_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
